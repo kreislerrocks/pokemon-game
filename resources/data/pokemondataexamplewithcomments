@@ -1,0 +1,30 @@
+001#Nat. Dex Number
+Bulbasaur #Name, Notice space after name (10 characters)
+Overgrow    #Ability, Notice spaces after name (12 characters)
+Overgrow    #No second ability, so repeat first (12 characters again)
+Chlorophyll #Hidden ability, Notice space (12 characters)
+87.5#Gender Ratio Male (%)
+12.5#Gender Ratio Female (%)
+Seed           #Dex Classification, Notice spaces (15 characters)
+28#Height,Inches
+0.7#Height,Metres
+15.2#Weight,Pounds
+6.9#Weight,Kilograms
+45#Capture Rate
+5120#Base Egg Steps
+1059860#Exp.
+70#Base Happiness
+000100#EVs earned: 0 HP, 0 Atk, 0 Def, 1 SpA, 0 SpD, 0 Spe
+34#Flee Flag
+5#Type (Grass)
+0#Type (Null)
+                    #Wild Hold Item, Notice spaces (20 characters) (Null)
+0#Chance of wild hold item (%)
+7#Egg Group (Grass)
+11#Egg Group (Monster)
+45#HP
+49#Atk
+49#Def
+65#SpA
+65#SpD
+45#Spe
