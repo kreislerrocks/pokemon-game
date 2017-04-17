@@ -1,7 +1,7 @@
 {
     "Bulbasaur": {
         "abilities": {
-            "normal": {"Overgrow"},
+            "normal": ["Overgrow"],
             "hidden": "Chlorophyll"
         },
         "genderRatio": {
