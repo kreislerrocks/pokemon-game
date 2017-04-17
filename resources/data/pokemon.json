@@ -1,0 +1,56 @@
+{
+    "Bulbasaur": {
+        "abilities": {
+            "normal": {"Overgrow"},
+            "hidden": "Chlorophyll"
+        },
+        "genderRatio": {
+            "male": 87.5,
+            "female": 12.5
+        },
+        "classification": "Seed",
+        "height": 0.7,
+        "weight": 6.9,
+        "captureRate": 45,
+        "baseEggSteps": 5120,
+        "experience": 1059860,
+        "baseHappiness": 70,
+        "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 1,
+            "spd": 0,
+            "spe": 0
+        },
+        "fleeflag": 34,
+        "types": ["Grass"],
+        "hold": {
+            "item": "",
+            "chance": 0
+        },
+        "eggGroups": ["Grass", "Monster"],
+        "baseStats": {
+            "hp": 45,
+            "atk": 49,
+            "def": 49,
+            "spa": 65,
+            "spd": 65,
+            "spe": 45
+        },
+        "moves": {
+            "learnset": [
+                {"level": 1, "move": "Tackle"},
+                {"level": 3, "move": "Growl"},
+                "etc"],
+            "tm": ["A list of TM numbers go here once we make TMs"],
+            "hm": ["A list of HM numbers go here once we make HMs"],
+            "egg": ["Skull Bash", "Charm", "Petal Dance", "Magical Leaf", "Grass Whistle", "Curse", "Ingrain", "Nature Power", "Amnesia", "Leaf Storm", "Power Whip", "Sludge", "Endure", "Giga Drain"]
+        },
+        "evolution": {
+            "method": ["level", 16],
+            "pokemon": "Ivysaur"
+        },
+        "description": "For some time after its birth, it grows by gaining nourishment from the seed on its back."
+    }
+}
